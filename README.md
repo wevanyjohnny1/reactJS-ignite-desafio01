@@ -27,6 +27,7 @@ Siga essas instruções para rodar essa aplicação no seu computador.
   yarn dev
   ```
 
+<h2>Demonstração do app</h2>
 
 Após seguir todos os passos acima a aplicação deve funcionar devidamente como no exemplo abaixo:
 <img alt="Application demo gif" src="https://s4.gifyu.com/images/Desafio1gifreadme.gif" width="1200" height="600" />
